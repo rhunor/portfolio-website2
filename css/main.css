@@ -312,6 +312,7 @@ fieldset[disabled] .button {
     vertical-align: top;
     width: 20px;
 }
+.circular--square { position: relative; width: 200px; height: 230px; overflow: hidden; border-radius: 50%; } .circular--portrait img { width: 100%; height: auto; }
 
 .modal-close::before,
 .delete::before,
